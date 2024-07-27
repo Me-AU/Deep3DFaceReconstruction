@@ -77,7 +77,7 @@ Faces are represented with Basel Face Model 2009, which is easy for further mani
 ### Installation ###
 #### 1. Clone the repository
 ```
-git clone https://github.com/Microsoft/Deep3DFaceReconstruction --recursive
+git clone https://github.com/Me-AU/Deep3DFaceReconstruction --recursive
 cd Deep3DFaceReconstruction
 ```
 
